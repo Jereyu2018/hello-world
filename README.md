@@ -1,2 +1,3 @@
 # hello-world
-小试牛刀
+
+I am learning knowledge about deep learning. Welcome and approriate you to give me advise
